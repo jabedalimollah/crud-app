@@ -1,0 +1,22 @@
+.searchInputBox {
+  border: 1px solid white;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  outline: none;
+  width: 17%;
+}
+.searchIcon {
+  background-color: skyblue;
+  border: 1px solid skyblue;
+  outline: none;
+  margin-right: 3vmin;
+  padding: 2vmin;
+}
+.closeIcon {
+  background-color: red;
+  border: 1px solid red;
+  color: green;
+  outline: none;
+  margin-right: 3vmin;
+  padding: 2vmin;
+}
